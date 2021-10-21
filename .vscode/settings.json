@@ -1,0 +1,13 @@
+{
+    //"dart.flutterSdkPath": "/Users/arnaudduquenoy/fvm/versions/stable",
+    "files.exclude": {
+        "**/.git": false,
+        "**/.svn": false,
+        "**/.hg": false,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/*.freezed.dart": true,
+        "**/*.g.dart": true
+    },
+    "explorerExclude.backup": null
+}

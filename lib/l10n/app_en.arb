@@ -1,0 +1,103 @@
+{
+    "weatherError": "Failed to load weather forecast",
+    "@weatherError": {
+        "description": ""
+    },
+    "locateError": "Failed to locate your device",
+    "@locateError": {
+        "description": ""
+    },
+    "wTemp": "Temperature",
+    "@wTemp": {
+        "description": ""
+    },
+    "wMinTemp": "Min Temperature",
+    "@wMinTemp": {
+        "description": ""
+    },
+    "wMaxTemp": "Max Temperature",
+    "@wMaxTemp": {
+        "description": ""
+    },
+    "wHumidity": "Humidity",
+    "@wHumidity": {
+        "description": ""
+    },
+    "sTitle": "Settings",
+    "@sTitle": {
+        "description": ""
+    },
+    "sUnit1": "Celsius",
+    "@sUnit1": {
+        "description": ""
+    },
+    "sUnit2": "Fahrenheit",
+    "@sUnit2": {
+        "description": ""
+    },
+    "sThemeTitle": "Theme",
+    "@sThemeTitle": {
+        "description": ""
+    },
+    "sLight": "Light",
+    "@sLight": {
+        "description": ""
+    },
+    "sDark": "Dark",
+    "@sDark": {
+        "description": ""
+    },
+    "sSystem": "System",
+    "@sSystem": {
+        "description": ""
+    },
+    "sLangTitle": "Language",
+    "@sLangTitle": {
+        "description": ""
+    },
+    "sLangF": "French",
+    "@sLangF": {
+        "description": ""
+    },
+    "sLangE": "English",
+    "@sLangE": {
+        "description": ""
+    },
+    "sPeriod": "Forecast range",
+    "@sPeriod": {
+        "description": ""
+    },
+    "dTitle": "Search city",
+    "@dTitle": {
+        "description": ""
+    },
+    "loading": "Loading ...",
+    "@loading": {
+        "description": ""
+    },
+    "wStart": "Loading GPS coordinates",
+    "@wStart": {
+        "description": ""
+    },
+    "wRun": "Welcome on Weatherplay",
+    "@wRun": {
+        "description": ""
+    },
+
+    "hSearch": "Get the forecast from worldwide cities",
+    "@hSearch": {
+        "description": ""
+    },
+    "hLoc": "Get the forecast from your location",
+    "@hLoc": {
+        "description": ""
+    },
+    "hSetup": "Configuration",
+    "@hSetup": {
+        "description": ""
+    },
+    "hFlip": "Access the detailed page",
+    "@hFlip": {
+        "description": ""
+    }
+}

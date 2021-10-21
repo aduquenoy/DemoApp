@@ -1,0 +1,17 @@
+include: package:lint/analysis_options.yaml
+
+analyzer:
+  exclude:
+    - "**/*.g.dart"
+    - "**/*.freezed.dart"
+  errors:
+   todo: ignore
+   argument_type_not_assignable: ignore
+
+linter:
+  rules:
+    unnecessary_this: false
+    unnecessary_statements: false
+    avoid_print: false
+    sort_unnamed_constructors_first: ignore
+    prefer_const_constructors: true
